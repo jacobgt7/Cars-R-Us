@@ -1,0 +1,11 @@
+.car_builder {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.car_builder div {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 15px;
+    width: 35%;
+}
